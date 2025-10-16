@@ -9,5 +9,8 @@ This project processes PDF files using Docling for ingestion tasks.
 - Place PDFs in `data/`.
 - Run the script in `src/`.
 
+## Data
+- PDFs are stored in `data/`. Example files: file1.pdf, file2.pdf.
+
 ## Steps
 - More to come...
